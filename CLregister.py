@@ -65,7 +65,7 @@ while 1:
             #   print(html)
                 html=gzip.decompress(html)
             #  print('decom')
-            #lala
+            #lalala
             #   print(html)
                 html=html.decode('gb2312',errors='ignore')
             #   print('decode')

@@ -1,4 +1,4 @@
 CLRegister
 ==========
 
-test CL registe code
+暴力破解CL邀请码
